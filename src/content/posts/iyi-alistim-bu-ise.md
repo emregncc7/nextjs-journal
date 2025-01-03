@@ -3,13 +3,13 @@ title: "İyi Alıştım Bu İşe"
 date: 2025-01-03
 description: "Giderek daha güzel gelmeye başladı. Umarım işin sonu, Seven filmindeki John Doe gibi olmaz..."
 ---
-#Yazmak Güzel Geliyor
+# Yazmak Güzel Geliyor
 
-Normalde geceleri yastığa kafamı koyduğumda kendi kendime dakikalarca, bazen de saatlerce düşünüyordum. Yazmaya başlayınca, yorgunluktan ve düşüncelerden az da olsa kurtuluyorum. Herkese tavsiyemdir: yazın. Ne yazdığınızın bir önemi yok, sadece yazın. Ortaya bir şey çıkması insanı mutlu ediyor.
+## Normalde geceleri yastığa kafamı koyduğumda kendi kendime dakikalarca, bazen de saatlerce düşünüyordum. Yazmaya başlayınca, yorgunluktan ve düşüncelerden az da olsa kurtuluyorum. Herkese tavsiyemdir: yazın. Ne yazdığınızın bir önemi yok, sadece yazın. Ortaya bir şey çıkması insanı mutlu ediyor.
 
 Kendimi sürekli etrafından soyutlayan, depresif modda takılan biri olarak, yazmak benim için bir çözüm olmuş olabilir miydi? Bunu söylemek için çok erken. Ancak şimdiden güzel bir başlangıç yaptım diye düşünüyorum.
 
-Dün, Allah affetsin, yapay zekadan yardım istedim. Şu an okuduğunuz bu yazıyı yazmak için bir blog projesi oluşturdum. Havalı olsun diye karanlık modu da ekledim. 😉 Her neyse, 3.5 saatin sonunda proje temel olarak tamamlandı.
+Dün, Allah affetsin, yapay zekadan yardım istedim. Şu an okuduğunuz bu yazıyı yazmak için bir blog projesi oluşturdum. Havalı olsun diye karanlık modu da ekledim. ;) Her neyse, 3.5 saatin sonunda proje temel olarak tamamlandı.
 
 Gecenin 1'inde yapay zekaya sordum: "Bu projeyi nasıl canlıya alırım?" diye. Bana dedi ki:
 "Ya bir sunucu kiralayacaksın ve domain satın alacaksın ya da Vercel, Netlify gibi bulut bilişim hizmetlerinin ücretsiz veya ücretli çözümlerinden yararlanacaksın."
@@ -33,8 +33,6 @@ Ama yok! Emre Bey emin bir şekilde: "ChatGPT yapamadı, ben bir de Cursor'a yap
 
 Branch dedim, reverse dedim, backup dedim... Yok!
 GitHub log'larına bakıyorum, bir tane gariban id var, içeriği bomboş. Onu geri getirsen ne olur, getirmesen ne olur...
-
--------------------------------------------------------------------------------
 
 Sonuç olarak, gece 2'de tekrar blog sitesini baştan yaptım. Az önce de içeriğinde iki yazım varken GitHub'a yükledim ve Vercel ile canlıya alabildim.
 
