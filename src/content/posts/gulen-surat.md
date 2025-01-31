@@ -1,0 +1,33 @@
+---
+title: "Gülen Surat"
+date: "2024-03-20"
+description: "Gülen surat hakkında"
+author: "Your Name"
+image: "/images/blog/gulen-surat.jpg"
+---
+
+# Gülen Surat
+
+![Gülen Surat](/images/blog/gulen-surat.jpg)
+
+## Evet, başlık biraz garip olabilir, ama neden "kendine gülen surat?" diye sormayın, çünkü zengin metin belgemin adı böyle. Hatırladığım kadarıyla, başlangıçta sembol koymaya çalışmıştım. Ancak dosya ismini noktalama işaretleriyle yazamadım, o yüzden "gülen surat" yazmak zorunda kaldım. :)
+
+Gel gelelim metnin içeriğine… Dosya adı "gülen surat" olsa da, içeriği beni hiç güldürmemişti. Belki yıllar sonra tekrar açıp okuduğumda, gülerek hatırlayacağım. Kim bilir?
+
+Arkadaşlar selam, belki bu soru defalarca kez sorulmuş bir sorudur ve cevap göndermekten bıkmışsınızdır, ancak benzeri sorulara baktım, tam olarak aradığım cevabı bulamadım.
+
+23 yaşında bir kardeşiniz olarak kariyer seçimi konusunda çok büyük bir boşluğa düştüm. Kısaca kendimden bahsetmem gerekirse, en bilinen özel üniversitelerden birinde 2021 yılında bilgisayar programcılığına kaydoldum. Önceki senelerde de YKS sınavını denemiştim ancak sayısalda 400 bin gelince mühendislik sınırı 300 bin iken, herhangi bir yer gelmiyordu açıkçası. O dönemde, Yönetim Bilişim Sistemleri gibi bölümlere de bakmamıştım, "2 yılda okurum" diye kendimce düşünüyordum. Daha sonrasında, eğer okulu tamamlayabilirsem, DGS ile mühendisliğe geçerim diye planlıyordum.
+
+Bir yandan programcılık okurken, bir yandan da en bilinen spor salonlarından birinde PT'lik yapmayı düşünüyordum. Arkadaş grubumdan referans olma konusunda ısrarcı kişiler vardı :D (Yaklaşık 8 yıllık bir fitness geçmişim var). Az çok bir öğrenci portföyü oluşturursanız, gayet güzel kazançlar elde edebiliyordunuz ve o dönemde bahsettikleri paralar bana çok tatlı gelmişti. Antrenmanlarımı devam ettirirken bir yandan Engin Demiroğ gibi isimlerden .NET'in daha temel ve iş odaklı kısmını öğreniyor, Gencay Yıldız'dan da daha detaylı kısımları öğrenmeye devam ediyordum. MS SQL, ASP.NET, Angular gibi teknolojileri bu kanallar aracılığıyla öğreniyordum.
+
+Okulum bittikten sonra iş ararken sorun yaşamamak için bir bootcamp'e girmeye karar verdim. Sonuçta, internetten aldığım birkaç eğitimle aylarca sürecek, sıfırdan bir kamp süreci bir değildir; sadece kurs sonunda alacağım sertifikalar bile işe girerken kolaylık sağlar diye düşünüyordum. (Şüpheli :D) Burası, belki Türkiye'de en çok bilinen yazılım alanındaki kurs yeridir, fiyatları da gerçekten pahalı ama karşılığını, çalışmaya başlarsam zaten alırım diye düşünerek kaydımı, mühendislik okuyan kuzenimle beraber yaptım. Kursun başlamasına daha vardı, ben de eğitim broşüründen öğreneceğimiz teknolojilere biraz alışmak için yukarıda ismini verdiğim eğitmenlerin kurslarına daha fazla odaklanmaya başladım.
+
+Gel gelelim, çok iyi bir eğitmenle beraber neredeyse 8 aylık bir kurs serüveni başlamıştı. Sınıfta ilk günler 15 kişiydik, her yaştan ve her meslekten insanlar vardı ve sadece ikisi alakalı bölümleri okuyordu; biri elektrik-elektronik mühendisi (kuzenim), diğeri de benim okuduğum okuldan bilgisayar mühendisliği öğrencisiydi. Bu arkadaş, en basit algoritma sorularında veya bir join sorgusunda bile, eğitimin son aylarına gelmemize rağmen sorunlar yaşıyordu. Bu dönemde Reddit ve Ekşi Sözlük'te yazılım kariyeri hakkında araştırmalar yaparken, sürekli sektörün doyum noktasına geldiğinden, sadece işinde iyi, uzun zamandır sektörde çalışmış seniorları işe aldıklarında junior alımının durduğundan, alsalar bile asgari ücretle sadece mühendisleri aldıklarından bahsediyorlardı. Sürekli böyle tartışmalara denk geliyordum. Bu konular hakkında yazılara, videolara baktıkça, algoritma da daha fazlası karşıma çıkıyordu.
+
+Kursa gittiğimde, o kadar para ödemesine rağmen çoğu zaman önündeki bilgisayarını bile açmaya üşenen bir adamın, okul sonrası şirketlerde yazılım geliştirici olarak çalışıp kıdem alabilecekken, benimse bu alandan iş bile bulamayacağım fikri, çocukça bir imrenme belki de kıskanma duygusuna yol açıyordu. Kuzenim ise gerçekten eğitimin hakkını veriyordu, belki bütün derslere katılmıştır, okulu olmasına rağmen. Ama geri kalan 13 kişi zamanla azalıyordu; sayı son aylarda o kadar düşmüştü ki, sınıfta sadece kuzenimle ben kalmıştık, tabii ki hoca da. :D
+
+Her neyse, bir gün kuzenim dedi ki: "Bir bankanın teknoloji kısmından yetkili biri okulumuzda seminer tarzı bir şey vermiş ve orada ileride yapmak istediği işi kafasında kesinleştirmiş olan var mı diye sormuş. Bizimki de .NET alanında ilerlemek istediğini söyleyince, yetkili abimiz EE öğrencisi arkadaşın numarasını alıyor ve stajını başlatıyor, okul bitince de orada işe başlıyor. Bugün yine sohbet muhabbet için bir kahvecide buluştuk. Konuştuk ve benim neler yaptığımı sordu. Açıkçası söyleyecek çok bir şeyim yoktu, hâlâ yazılım alanında iş arayışındaydım ve üniversite mezuniyeti sonrası tecilin sadece 6 ayı kaldı, bundan bahsettim. Koçluk işinde hâlâ lüks semtteki spor salonunda teklif aldığımı ancak istemediğimden yazılım alanında iş arayışına devam ettiğimi, belli başlı bankaların ve ödeme kuruluşlarının neredeyse her seviyesinden kişilerle konuştuğumu ve neredeyse hepsinden aynı cevabı aldığımı söyledim. Dostlar, "Mühendislik öğrencisi olsan ve okulun staj ücretini karşılasa, en kötü staj ile hemen aldırırdık ama bırak mühendisliği, bu alanlara benzer alanlardan lisans diploman da yok," cevabını aldım. Bazıları da "İş fark etmez, gir bir işe, fast-food'da da çalışsan. Elbet bir kapı açılır, oradan yürür, yazılım alanına geçersin," diyorlar. Ancak belli denemelerden sonra, bırak kapıların kendiliğinden açılmasını, kapıları arkadan tutup "Hodor Hodor" diyen biri varmış gibi hissediyorum. Şu an bir çıkmazdayım dostlar, ne yapacağım konusunda hiçbir fikrim yok.
+
+Gidip YKS'ye girip YBS mi okusam, hem de askerlik tecilim uzar mı? Yoksa saçımı 3'e vurup askerliğimi mi tamamlasam? Yoksa fitness üzerine geliştirdiğim bir startup var, akşamları 2-3 saatimi ayırıyorum ve şimdiden MVP sürümünü tamamladım, buradan mı devam etsem? Yoksa yazılım ile alakalı bütün planlarımı, isteğimi, hevesimi geride bırakıp bilgisayarı satıp eğitmenlikten devam mı etsem? Yoksa... yoksa... yoksa... Dediğim gibi bir çıkmazın içindeyim dostlar, ne yapacağım konusunda hiçbir fikrim yok. Eğitmenliğin kazancı güzel olsa da yazılım kadar heveslendirmiyor, ne de üzerine düşesim geliyor. Bir satır bile olsa, bu akşam saatinde çayınızı yudumlarken tecrübeli abilerimizden bir tavsiye alabilirsem ne mutlu bana. Kalın sağlıcakla :)
+
+(Not: İlk bu yazıyı attığım topluluğun ibik admini bunu yayınlamadı, direkt sildi... Farklı bir topluluğa attım, sanki postum görünmezmiş gibi, bırakın cevabı, görüntüleyende olmamıştı... -_-)
