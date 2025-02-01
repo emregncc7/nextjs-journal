@@ -66,11 +66,7 @@ export default async function Post({
 
       <footer className="border-t border-border">
         <div className="max-w-4xl mx-auto px-4 py-8 text-center text-secondary">
-<<<<<<< HEAD
           <p>Built with best dev.(me) and little bit of cursor</p>
-=======
-          <p>Built with best dev. and little bit of cursor</p>
->>>>>>> 161cc558dd750a152a7e02cea81af7481ad5742d
         </div>
       </footer>
     </div>
