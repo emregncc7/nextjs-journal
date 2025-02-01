@@ -20,10 +20,10 @@ export default async function Home() {
       <main className="max-w-4xl mx-auto px-4 pt-24 pb-12">
         <header className="mb-12 text-center">
           <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            Geçin içeri ayakta kalmayın..
+          Yolculuk başlasın..
           </h1>
           <p className="text-secondary text-lg max-w-2xl mx-auto">
-            Yazılım fitness kariyer için en çokda kendim için yazıyorum.
+          ‘Ne gördüğünü düşünüyorsun, Neo? Gerçekten görmek istediğin şeyi mi?’
           </p>
         </header>
         
