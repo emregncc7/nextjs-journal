@@ -1,19 +1,22 @@
-🚀 Personal Blog Project
+# Personal Blog Project
 
-Modern ve SEO dostu bir kişisel blog uygulaması! 📝 Next.js 13+ ile geliştirilen bu proje, Markdown desteği ve responsive tasarımı ile öne çıkmaktadır.
+Bu proje Next.js kullanılarak geliştirilmiş kişisel bir blog uygulamasıdır.
 
-🌟 Özellikler
+## 🚀 Özellikler
 
-✅ Modern web teknolojileri ile geliştirilmiş arayüz (Next.js 13+)✅ Markdown formatında blog yazıları✅ Mobil uyumlu responsive tasarım 📱✅ SEO optimizasyonu 🚀✅ TypeScript ile güvenli geliştirme ortamı
+- Next.js 13+ ile geliştirilmiş modern web uygulaması
+- Markdown blog yazıları desteği
+- Responsive tasarım
+- SEO dostu yapı
+- TypeScript ile tip güvenliği
 
+## 🛠️ Kullanılan Teknolojiler
 
-🛠️ Kullanılan Teknolojiler
-Next.js
-TypeScript
-Markdown
-  
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Markdown](https://www.markdownguide.org/)
 
-📁 Proje Yapısı
+## 📁 Proje Yapısı
 
 blog/
 ├── src/
@@ -25,62 +28,58 @@ blog/
 │   └── lib/
 │       └── posts.ts      # Blog işlemleri için yardımcı fonksiyonlar
 
-🚀 Başlangıç
+## 🚀 Kurulum
 
-🔧 Ön Gereksinimler
-
-Node.js (v18 veya üzeri)
-
-npm veya yarn
-
-🛠 Kurulum
-
-1️⃣ Projeyi klonlayın
+1. Projeyi klonlayın:
 
 git clone https://github.com/[kullanıcı-adınız]/blog.git
 
-2️⃣ Proje dizinine gidin
+2. Proje dizinine gidin:
 
 cd blog
 
-3️⃣ Bağımlılıkları yükleyin
+3. Bağımlılıkları yükleyin:
 
-npm install  # veya  yarn install
+npm install
+# veya
+yarn install
 
-4️⃣ Geliştirme sunucusunu başlatın
+4. Geliştirme sunucusunu başlatın:
 
-npm run dev  # veya  yarn dev
+npm run dev
+# veya
+yarn dev
 
-🔗 Uygulama http://localhost:3000 adresinde çalışmaya başlayacaktır.
+5. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-📝 Blog Yazısı Ekleme
+## 📝 Blog Yazısı Ekleme
 
-Blog yazıları src/content/posts dizininde Markdown (.md) formatında saklanmaktadır.
+Blog yazıları `src/content/posts` dizini altında Markdown formatında saklanmaktadır. Yeni bir blog yazısı eklemek için:
 
-✍️ Yeni Blog Yazısı Oluşturma
-
-1️⃣ src/content/posts dizininde yeni bir .md dosyası oluşturun.2️⃣ Aşağıdaki format ile meta verileri ekleyin:
+1. `src/content/posts` dizinine yeni bir `.md` dosyası ekleyin
+2. Markdown dosyanızın başına gerekli meta verileri ekleyin:
 
 ---
 title: "Blog Yazısı Başlığı"
 date: "2024-03-20"
-description: "Yazı açıklaması"
-tags: ["tag1", "tag2"]
 ---
 
 Yazı içeriği...
 
-💡 Katkıda Bulunma
+## 🤝 Katkıda Bulunma
 
-Her türlü katkıya açığız! 🤝 Katkıda bulunmak için:
+1. Bu projeyi fork edin
+2. Feature branch'i oluşturun (`git checkout -b feature/amazing-feature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add amazing feature'`)
+4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
+5. Pull Request oluşturun
 
-1️⃣ Projeyi fork edin2️⃣ Yeni bir branch oluşturun (git checkout -b feature/amazing-feature)3️⃣ Değişikliklerinizi commit edin (git commit -m 'feat: Add amazing feature')4️⃣ Branch'inizi push edin (git push origin feature/amazing-feature)5️⃣ Pull Request açın 🎉
+## 📄 Lisans
 
-📜 Lisans
+Bu proje MIT lisansı altında lisanslanmıştır.
 
-Bu proje MIT lisansı altında lisanslanmıştır. 📜 Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+## 📞 İletişim
 
-📬 İletişim
-
-📧 Emre Genç - @emregncc7
+GitHub: [https://github.com/emregncc7](https://github.com/emregncc7)
+LinkedIn: [https://linkedin.com/emregncc7](https://www.linkedin.com/in/emregenc7/)
 
