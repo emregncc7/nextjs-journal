@@ -1,85 +1,129 @@
 # Personal Blog Project
 
-Bu proje Next.js kullanılarak geliştirilmiş kişisel bir blog uygulamasıdır.
+Bu proje, **Next.js** kullanılarak geliştirilmiş modern ve ölçeklenebilir bir **kişisel blog uygulamasıdır**. Markdown tabanlı içerik yönetimi, SEO uyumluluğu ve responsive tasarımıyla kullanıcı dostu bir deneyim sunar.
+
+---
 
 ## 🚀 Özellikler
 
-- Next.js 13+ ile geliştirilmiş modern web uygulaması
-- Markdown blog yazıları desteği
-- Responsive tasarım
-- SEO dostu yapı
-- TypeScript ile tip güvenliği
+✅ **Next.js 13+** ile geliştirilmiş modern mimari  
+✅ **Markdown** desteğiyle kolay blog yazısı yönetimi  
+✅ **SEO dostu yapı** ve hızlı performans  
+✅ **TypeScript** ile güvenli ve ölçeklenebilir kod yapısı  
+✅ **Responsive tasarım**, mobil uyumluluk  
+✅ **Kolay özelleştirilebilir tema ve bileşen yapısı**
+
+---
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Markdown](https://www.markdownguide.org/)
+- [Next.js](https://nextjs.org/) - React tabanlı modern framework
+- [TypeScript](https://www.typescriptlang.org/) - Tip güvenliği sağlayan dil
+- [Markdown](https://www.markdownguide.org/) - İçerik yönetimi için hafif format
+- [Tailwind CSS](https://tailwindcss.com/) - Hızlı ve modern stil yönetimi
+
+---
 
 ## 📁 Proje Yapısı
 
+```
 blog/
 ├── src/
 │   ├── app/
-│   │   ├── layout.tsx    # Ana sayfa düzeni
-│   │   └── page.tsx      # Ana sayfa bileşeni
+│   │   ├── layout.tsx      # Ana sayfa düzeni
+│   │   └── page.tsx        # Ana sayfa bileşeni
 │   ├── content/
-│   │   └── posts/        # Blog yazıları (Markdown)
+│   │   └── posts/          # Markdown blog yazıları
+│   ├── components/         # UI bileşenleri
+│   ├── styles/             # Global ve bileşen bazlı stiller
 │   └── lib/
-│       └── posts.ts      # Blog işlemleri için yardımcı fonksiyonlar
+│       └── posts.ts        # Blog yazılarını işleyen yardımcı fonksiyonlar
+```
+
+---
 
 ## 🚀 Kurulum
 
-1. Projeyi klonlayın:
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
+### 1️⃣ Projeyi klonlayın:
+```sh
 git clone https://github.com/[kullanıcı-adınız]/blog.git
+```
 
-2. Proje dizinine gidin:
-
+### 2️⃣ Proje dizinine gidin:
+```sh
 cd blog
+```
 
-3. Bağımlılıkları yükleyin:
-
+### 3️⃣ Bağımlılıkları yükleyin:
+```sh
 npm install
 # veya
 yarn install
+```
 
-4. Geliştirme sunucusunu başlatın:
-
+### 4️⃣ Geliştirme sunucusunu başlatın:
+```sh
 npm run dev
 # veya
 yarn dev
+```
 
-5. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
+### 5️⃣ Tarayıcınızda açın:
+[http://localhost:3000](http://localhost:3000)
+
+---
 
 ## 📝 Blog Yazısı Ekleme
 
-Blog yazıları `src/content/posts` dizini altında Markdown formatında saklanmaktadır. Yeni bir blog yazısı eklemek için:
+Yeni bir blog yazısı eklemek için **Markdown** formatında bir dosya oluşturun:
 
-1. `src/content/posts` dizinine yeni bir `.md` dosyası ekleyin
-2. Markdown dosyanızın başına gerekli meta verileri ekleyin:
+1. `src/content/posts` dizinine yeni bir **.md** dosyası ekleyin.
+2. Dosyanın başına aşağıdaki gibi meta verileri ekleyin:
 
+```md
 ---
 title: "Blog Yazısı Başlığı"
 date: "2024-03-20"
+description: "Bu yazının kısa açıklaması."
 ---
 
-Yazı içeriği...
+Yazı içeriği burada yer alır...
+```
+
+3. Markdown dosyanız kaydedildikten sonra blog sayfasında otomatik olarak listelenecektir.
+
+---
 
 ## 🤝 Katkıda Bulunma
 
-1. Bu projeyi fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
+Projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
+
+1. Bu projeyi **fork** edin.
+2. Yeni bir **branch** oluşturun:
+   ```sh
+   git checkout -b feature/yeni-ozellik
+   ```
+3. Değişikliklerinizi **commit** edin:
+   ```sh
+   git commit -m "feat: Yeni özellik eklendi"
+   ```
+4. Branch'inizi **push** edin:
+   ```sh
+   git push origin feature/yeni-ozellik
+   ```
+5. Bir **Pull Request (PR)** oluşturun.
+
+---
 
 ## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
+
+---
 
 ## 📞 İletişim
 
-GitHub: [https://github.com/emregncc7](https://github.com/emregncc7)
-LinkedIn: [https://linkedin.com/emregncc7](https://www.linkedin.com/in/emregenc7/)
-
+📌 **GitHub**: [https://github.com/emregncc7](https://github.com/emregncc7)  
+📌 **LinkedIn**: [https://linkedin.com/emregncc7](https://www.linkedin.com/in/emregenc7/)
