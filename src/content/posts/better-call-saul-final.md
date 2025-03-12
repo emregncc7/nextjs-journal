@@ -60,3 +60,6 @@ Jimmy, Kaygan Jimmy'ydi. İçinde her zaman bir insanlık vardı. Ve bu dizi, on
 
 “gittiğin yoldan memnun değilsen geri dönmekte utanma”
 
+## Edit
+ChatGPT'ye kelime hatalarını düzelt dedim, yazımı adeta baştan yarattı ama genel anlamı koruduğunu söylemem lazım. Sadece ufak bir kısım eksilmiş, hemen tamamlayalım...
+Bütün dizi boyunca Chuck da ben de haklı çıktık: İnsan ne ise odur, değişemez. Jimmy her zaman "Kaygan Jimmy" idi. Evet, 6 sezon boyunca haklıydım. Ancak finalde yaptığı hareketle gönülleri fethetti. Belki de Chuck da ben de yanılmıştık. İnsan gerçekten değişebilen bir canlıdır...
