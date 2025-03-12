@@ -3,8 +3,10 @@ title: "Ne Finaldi Bee!"
 date: "2025-12-03 03:35 AM"
 description: "Better Call Saul finali hakkında düşüncelerim."
 ---
+# 
 
-# Ne Finaldi Bee!
+![Dark Knight Returns](/images/blog/kim.jpg)
+
 
 Az önce *Better Call Saul*'un final bölümünü bitirdim. Dünyanın—hayır, hayır—evrenin en iyi dizisi olduğuna kanaat getirdim. Sadece çekim açıları, hikayesi, karakter bağlantıları bu diziyi benim için en iyisi yapmadı.
 
@@ -55,4 +57,6 @@ Birini çok severseniz onun için her şeyi yapabileceğinizi düşünebilirsini
 ## Sonuç
 
 Jimmy, Kaygan Jimmy'ydi. İçinde her zaman bir insanlık vardı. Ve bu dizi, onun en başından sonuna kadar nasıl değiştiğini, neleri feda ettiğini ve nasıl bir efsaneye dönüştüğünü anlatıyordu. **Ve işte bu yüzden, benim için dünyanın en iyi dizisi!**
+
+“gittiğin yoldan memnun değilsen geri dönmekte utanma”
 
