@@ -48,7 +48,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 ### 1️⃣ Projeyi klonlayın:
 ```sh
-git clone https://github.com/emregncc7/blog.git
+git clone https://github.com/emregncc7/nextjs-journal.git
 ```
 
 ### 2️⃣ Proje dizinine gidin:
