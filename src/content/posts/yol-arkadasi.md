@@ -8,7 +8,7 @@ author: "emre"
 
 # 
 
-![Dark Knight Returns](/images/blog/ssss.jpg)
+![Dark Knight Returns](/images/blog/sss.jpg)
 
 Kıral geri döndü nerede kalmıştık? 
 
